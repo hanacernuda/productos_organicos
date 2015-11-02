@@ -1,3 +1,37 @@
 Productos Orgánicos
 
-Cultivo: crops
+
+AGRICULTURA: 
+Agricultura orgánica: Organic farming
+Almácigo: Seeding
+Criadero: Hatchery
+Cultivo: crops (n) BUT Cosecha: Harvest
+Invernáculos: Greenhouse (heated by the sun) / hothouse (heated by artificial resources)
+Maceta: Pot
+Suelo: soil
+Vivero: Nursery
+
+GANADERÍA
+Animales estabulados: Housed animals
+Ganadería intensiva: Factory farming
+Prácticas pecuarias: Husbandry practices (cría) / Livestock production (ganadería)
+
+FERTILIZANTES 
+Biol: Biol
+Estiércol compostado: Composted farmyard manure
+Estiércol de granja desecado: dried farmyard manure
+Estiércol de granja: Farmyard manure
+Estiércol: Manure (abono) / Dung (excremento)
+Fertilizantes foliares (origen natural): (natural) foliar fertilizers
+Gallinazo: Poultry manure
+Mantillo de excrementos sólidos: composted animal excrements
+Purín: Surry
+
+OTROS
+Coadyuvantes tecnológicos: Processing aids
+Preservantes: Preservatives
+Acuicultura: Aquaculture
+Depósitos naturales: Natural deposits
+Fiscalización: Audits / Surveillance
+Entidad certificadora: Certyfying entity
+
