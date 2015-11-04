@@ -2,19 +2,40 @@ Productos Orgánicos
 
 
 AGRICULTURA: 
+Agricultura convencional: Conventional farming
 Agricultura orgánica: Organic farming
 Almácigo: Seeding
+Barbecho: Fallow land
+Conversión: Conversion
 Criadero: Hatchery
 Cultivo: crops (n) BUT Cosecha: Harvest
+Cultivo sin suelo: Soilless culture 
+Desarrollar cultivos vinculados al suelo: Grow crops in soil
+Explotación (agropecuaria): Farm/Holding
 Invernáculos: Greenhouse (heated by the sun) / hothouse (heated by artificial resources)
 Maceta: Pot
+Material de propagación vegetativa: Vegetative propagation material
+Nutrición vegetal: Plant nutrition
+Organismos modificados genéticamente (OMG): Genetically modified organisms (GMO)
+Parcela: Plot
+Período de conversión: Period of conversion
+Producción vegetal: Plant production
+Rotación plurianual de cultivos: Multianual crop rotation
+Soluciones nutritivas: Nutritive/Nutrient solutions
 Suelo: Soil
 Vivero: Nursery
 
 GANADERÍA
+Alojamiento: Housing
 Animales estabulados: Housed animals
+Cría: Husbandry
+Docking: Descole/Caudotomía
 Ganadería intensiva: Factory farming
-Prácticas pecuarias: Husbandry practices (cría) / Livestock production (ganadería)
+Peso vivo: Live weight
+Prácticas pecuarias/ganaderas/zootécnicas: Husbandry practices (cría) / Livestock production (ganadería)
+Producción primaria: Primary production
+Rotación en los lotes de pastoreo: Rotational grazing
+Tierras de pastoreo: Rangelands
 
 FERTILIZANTES 
 Biol: Biol
@@ -22,6 +43,7 @@ Estiércol compostado: Composted farmyard manure
 Estiércol de granja desecado: dried farmyard manure
 Estiércol de granja: Farmyard manure
 Estiércol: Manure (abono) / Dung (excremento)
+Fertilización de síntesis: Synthetic fertilization
 Fertilizantes foliares (origen natural): (natural) foliar fertilizers
 Gallinazo: Poultry manure
 Mantillo de excrementos sólidos: composted animal excrements
@@ -29,6 +51,8 @@ Purín: Surry
 
 OTROS
 Acuicultura: Aquaculture
+Alimentos compuestos: Compound feed
+Alza (melaria): Hive body
 Bolsón: Pack
 Coadyuvantes tecnológicos: Processing aids
 Depósitos naturales: Natural deposits
@@ -36,7 +60,11 @@ Entidad certificadora: Certyfying entity
 Fardo: Bundle
 Fiscalización: Audits / Surveillance
 Lienzo: Hessian bags
+Medicamentos veterinarios: Veterinary medicinal products
 Normas Generales de Elaboración de Productos: General Manufacturing Standards for Products
+Oligoelementos: Trace elements
 Preservantes: Preservatives
+Radiación ionizante: Ionizing radiation
+Zona de amortiguación: Buffer zones
 
 
