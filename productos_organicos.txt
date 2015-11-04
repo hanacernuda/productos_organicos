@@ -11,7 +11,7 @@ Criadero: Hatchery
 Cultivo: crops (n) BUT Cosecha: Harvest
 Cultivo sin suelo: Soilless culture 
 Desarrollar cultivos vinculados al suelo: Grow crops in soil
-Explotación (agropecuaria): Farm/Holding
+Explotación (agropecuaria): Farm
 Invernáculos: Greenhouse (heated by the sun) / hothouse (heated by artificial resources)
 Maceta: Pot
 Material de propagación vegetativa: Vegetative propagation material
