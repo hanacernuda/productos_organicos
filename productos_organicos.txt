@@ -47,7 +47,7 @@ Fertilización de síntesis: Synthetic fertilization
 Fertilizantes foliares (origen natural): (natural) foliar fertilizers
 Gallinazo: Poultry manure
 Mantillo de excrementos sólidos: composted animal excrements
-Purín: Surry
+Purín: Slurry
 
 OTROS
 Acuicultura: Aquaculture
