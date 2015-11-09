@@ -25,6 +25,7 @@ Soluciones nutritivas: Nutritive/Nutrient solutions
 Suelo: Soil
 Vivero: Nursery
 
+
 GANADERÍA
 Alojamiento: Housing
 Animales estabulados: Housed animals
@@ -36,6 +37,14 @@ Prácticas pecuarias/ganaderas/zootécnicas: Husbandry practices (cría) / Lives
 Producción primaria: Primary production
 Rotación en los lotes de pastoreo: Rotational grazing
 Tierras de pastoreo: Rangelands
+
+
+ACUICULTURA
+Acuicultura: Aquaculture
+Long-lines: can be used as in off-bottom, as in the raft methods, and is a more intensive cultivation process. It is recommended when large areas are being used.
+Off-bottom method: uses stakes, which hold the ropes with the propagules attached, and must be done in shallow and clean water.
+Rafts: are frequently used in deeper waters but require boats to go to the farms. The structure to keep the ropes inside the water is provided by rafts, made from bamboo, wood or PVC pipe, instead of stakes.
+
 
 FERTILIZANTES 
 Biol: Biol
@@ -50,7 +59,6 @@ Mantillo de excrementos sólidos: composted animal excrements
 Purín: Slurry
 
 OTROS
-Acuicultura: Aquaculture
 Alimentos compuestos: Compound feed
 Alza (melaria): Hive body
 Bolsón: Pack
@@ -66,5 +74,6 @@ Oligoelementos: Trace elements
 Preservantes: Preservatives
 Radiación ionizante: Ionizing radiation
 Zona de amortiguación: Buffer zones
+
 
 
