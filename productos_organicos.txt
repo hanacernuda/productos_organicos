@@ -157,7 +157,7 @@ Preparados biodinámicos: Biodynamic preparations
 Preparados caseros intraprediales: Homemade intra-facility preparations
 Preservantes: Preservatives
 Producción: Production
-Productos orgánicos: Organic products / Productos en conversión (a orgánicos): Products in (process of) conversion (to organic) / Productos convencionales: Conventional products / Conversión simultánea: Simultaneous conversion
+Productos orgánicos: Organic products / Productos en conversión (a orgánicos): Products in (process of) conversion (into organic) / Productos convencionales: Conventional products / Conversión simultánea: Simultaneous conversion
 Radiación ionizante: Ionizing radiation
 Régimen de control organic: Organic control system
 Seguimiento: Follow-up
