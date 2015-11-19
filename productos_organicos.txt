@@ -65,7 +65,7 @@ Lienzo: Hessian bags
 Majada: Flock
 Peso vivo: Live weight
 Pienso (alimento para animales): Feedstuff BUT Alimento (para humanos): Foodstuff
-Plantel: Breeding flock
+Plantel: Breeding stock
 Prácticas pecuarias/ganaderas/zootécnicas: Husbandry practices (cría) / Livestock production (ganadería)
 Producción primaria: Primary production
 Ración base: Staple food
