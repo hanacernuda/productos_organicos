@@ -129,6 +129,7 @@ Aditivo alimentario: Food additive
 Alimentos compuestos: Compound feed
 Auditoría: Private audit
 Autoridad de aplicación: Implementing authority
+
 Ayurvédico: Ayurvedic 
 Biodiversidad: Biodiversity
 Certificación: Certification
@@ -147,7 +148,7 @@ Fibra textil de origen vegetal: Plant textile fiber
 Fiscalización: Public audit
 Inductor: Inductor
 Legajo de control: Control file
-Medicamentos veterinarios: Veterinary medicinal products
+Medicamentos veterinarios: Veterinary drugs
 Normas Generales de Elaboración de Productos: General Manufacturing Standards for Products
 Núcleo: Nucleous
 Oligoelementos: Trace elements
