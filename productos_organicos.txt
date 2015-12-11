@@ -7,25 +7,44 @@ Agricultura convencional: Conventional farming
 Agricultura orgánica: Organic farming
 Alelopatía: Allelopathy
 Almácigo: Seeding
-Cultivo sin suelo: Soil-less cultivation
+Arrastre del suelo: soil erosion
+Brote: shoot
+Cercos vivos: living fences
+Cultivo de cobertura: cover crop 
 Cultivo: crops/cultivation BUT Cosecha: Harvest
+Cultivo perenne: perennial crop
+Cultivo sin suelo: soil.less cultivation
 Desarrollar cultivos vinculados al suelo: Grow crops in soil
+Desmonte: land clearing
 Establecimiento agropecuario: Holding
 Explotación agropecuaria: Farm
+Forraje perenne: peremmial forage
 Invernáculos: Greenhouse (heated by the sun) / hothouse (heated by artificial resources)
+Labrar: to till / Laboreo: tillage
 Maceta: Pot
 Material de propagación vegetativa: Vegetative propagation material
+Mulching/Acolchado; mulching
 Nutrición vegetal: Plant nutrition
 Organismos modificados genéticamente (OMG): Genetically modified organisms (GMO)
 Parcela: Plot
+Período de cultivo: growing period
 Plaga: Pest
 Plantas adultas: Mature plants
+Plantas de raíces profundas/superficiales: deep-rooted/shallow-rooted plants
+Pradera: Grassland
+Producción de forrajes: fodder production
+Producción de pastos: pasture production
 Producción vegetal: Plant production
 Quitosano: Chitosan
+Recolección: harvest (para plantas, no para la miel, por ejemplo)
 Restos de vegetación: Green waste
+Rompevientos: windbreak
 Rotación plurianual de cultivos: Multianual crop rotation
+Siembra: sowing
 Soluciones nutritivas: Nutritive solutions
+Sombreado: shading
 Suelo: Soil
+Tierra de diatomeas: diatomaceous earth
 Vivero: Nursery
 
 
@@ -45,34 +64,57 @@ Pisos: Hive stands
 
 GANADERÍA
 Alojamiento: Housing
+Amamantamiento: milking 
 Animales estabulados: Housed animals
 Bienestar animal: Animal Welfare 
 Bolsón: Wool pack
+Camada: brood (crias) 
 Carnero: Ram
+Cría: young/brood
 Cría: Husbandry
+Criar: to rear
 Descole/Caudotomía: Docking
+Destete: weaning / Destetat: to be weaned
 Encarnerar: Tupping
+Engorde de ganado intensivo a corral: fattening of livestock in feedlots
 Esquila: Shearing 
 Establecimiento agropecuario: Holding
+Estabulación: stabling
 Explotación agropecuaria: Farm
 Fardo: Bundle
+Gallina ponedora: laying hen 
+Gallinero: poultry house 
 Ganadería extensiva: Extensive farming
 Ganadería intensiva: Factory farming
 Ganado: Livestock
+Hembras nulíparas: nulliparous females
+Hembra reproductora: breeding female (lo mismo para male)
+Lactante: nursing/milking animal
 Laparoscopía: Laparoscopy
 Lazareto: Lazaretto
 Lienzo: Hessian bags
+Local: livestock building
+Madre sustituta: foster mother 
 Majada: Flock
+Mamar: to suckle
+Período de lactancia: lactation
 Peso vivo: Live weight
 Pienso (alimento para animales): Feedstuff BUT Alimento (para humanos): Foodstuff
 Plantel: Breeding stock
 Prácticas pecuarias/ganaderas/zootécnicas: Husbandry practices (cría) / Livestock production (ganadería)
+Producción ganadera sin terreno: landless livestock production
 Producción primaria: Primary production
 Ración base: Staple food
 Ración total: Total ration
 Ración: Portion
+Reposición de animales: restocking of animals / Reponer: to restock
+Rodeo: livestock (del país) / herd (de un establecimiento)
 Rotación en los lotes de pastoreo: Rotational grazing
 Señal: Earmarks
+Servicio (reproducción): service
+Sincronización del celo: synchronization of the oestrus cycle
+Sobrepastoreo: overgrazing
+Tambo: dairy (place) / milking (process) 
 Tierras de pastoreo: Rangelands
 Vellón commercial: Commercial fleece
 
@@ -81,9 +123,11 @@ ACUICULTURA
 Acuicultura multitrófica integrada: Integrated multi-trophic aquaculture
 Acuicultura: Aquaculture BUT Acuicultural: Aquacullture
 Agua dulce/marina: Freshwater/marine water
+Agua residual: wastewater
 Áreas continentales/ marinas o marítimas: Continental/maritime areas
 Barbecho: Fallowing
 Ciclo de producción: Production cycle
+Corral: pen
 Criadero: Hatchery
 Cuerpos de agua: water bodies
 Densidad de población: Stocking density
@@ -93,11 +137,15 @@ Estanque: Pond
 Eutrofización: Eutrophication
 Fase de crecimiento: Grow-out phase
 Ginogénesis: Gynogenesis
+Hidrolizado de proteínas de pescado: hydrolized fish proteins / fish protein hydrolysate
 Incubación: Hatching
 Jaula: Cage
-Pen: Corral
+Napas de agua freáticas: groundwaters
+Pesca sostenible: sustainable fishery 
 Policultivo: Policulture
 Recinto: Enclosure
+Sal gema bruta de mina: coarse rock salt 
+Sal marina: sea salt
 Sésil: Sessile
 Sistema de contención: (Closed) Containment system
 Sistema de producción acuícola orgánica: Organic aquaculture production system
@@ -109,6 +157,7 @@ Sistema en ambientes naturales controlados: Static water pond
 
 
 FERTILIZANTES 
+Abono verde: green manure
 Biol: Biol
 Bocashi: Bokashi
 Compost: Compost
@@ -126,14 +175,17 @@ Purín: Slurry
 
 OTROS
 Aditivo alimentario: Food additive
+Agroforestería: agroforestry
 Alimentos compuestos: Compound feed
 Auditoría: Private audit
 Autoridad de aplicación: Implementing authority
-
 Ayurvédico: Ayurvedic 
 Biodiversidad: Biodiversity
 Certificación: Certification
 Coadyuvantes tecnológicos: Processing aids
+Contrato de aparcería: sharecropping agreement
+Contrato de arrendamiento: lease agreement
+Contrato de comodate: commodate agreement
 Control biologico: Biological control
 Depósitos naturales: Natural deposits
 Derivados (productos): Derivatives
@@ -141,12 +193,18 @@ Ecosistemas frágiles: Fragile ecosystems
 Elaboración: Manufacture
 Entidad certificadora: Certifying entity
 Equivalente: Equivalent
+Estirpe: strain
 Fibra natural: Natural fiber
 Fibra sintética: Synthetic fiber
 Fibra textil de origen animal: Animal textile fiber
 Fibra textil de origen vegetal: Plant textile fiber
 Fiscalización: Public audit
+Fotoperíodo: photoperiod
+Granizo: hail
+Helada: frost
 Inductor: Inductor
+Insolación: sunstroke
+Intemperización: weathering
 Legajo de control: Control file
 Medicamentos veterinarios: Veterinary drugs
 Normas Generales de Elaboración de Productos: General Manufacturing Standards for Products
@@ -161,7 +219,9 @@ Producción: Production
 Productos orgánicos: Organic products / Productos en conversión (a orgánicos): Products in (process of) conversion (into organic) / Productos convencionales: Conventional products / Conversión simultánea: Simultaneous conversion
 Radiación ionizante: Ionizing radiation
 Régimen de control organic: Organic control system
+Riego por asperción: sprinkler irrigation
 Seguimiento: Follow-up
+Silvopastoril: sylvopastoral
 Subproductos: By-products
 Supervisión: Supervision
 Trazabilidad: Traceability
