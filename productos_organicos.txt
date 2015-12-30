@@ -137,7 +137,7 @@ Estanque: Pond
 Eutrofización: Eutrophication
 Fase de crecimiento: Grow-out phase
 Ginogénesis: Gynogenesis
-Hidrolizado de proteínas de pescado: hydrolized fish proteins / fish protein hydrolysate
+Hidrolizado de proteínas de pescado: hydrolized fish proteins 
 Incubación: Hatching
 Jaula: Cage
 Napas de agua freáticas: groundwaters
