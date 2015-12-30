@@ -16,7 +16,7 @@ Cultivo perenne: perennial crop
 Cultivo sin suelo: soil.less cultivation
 Desarrollar cultivos vinculados al suelo: Grow crops in soil
 Desmonte: land clearing
-Establecimiento agropecuario: Holding
+Establecimiento agropecuario: (agricultural and livestock) Holding/Plant/Establishment
 Explotación agropecuaria: Farm
 Forraje perenne: peremmial forage
 Invernáculos: Greenhouse (heated by the sun) / hothouse (heated by artificial resources)
